@@ -45,6 +45,6 @@ This is a simple **ToDo list app** that I built while learning **JavaScript, HTM
 
 ### 🌐 Live Demo
 
-You can see the app live here: [GitHub Pages link](https://your-github-username.github.io/your-repo-name)
+You can see the app live here: [GitHub Pages link](https://maz-hub.github.io/todo-app/)
 
 ---
